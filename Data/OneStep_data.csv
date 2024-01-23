@@ -1,0 +1,13 @@
+﻿link,firstAuthor,year,filename,xaxis,yaxis,reportedLP,host,strain,virus,figure
+https://www.frontiersin.org/articles/10.3389/fmicb.2021.664810/full,Shang,2021,Shang_Frontiers_2021_vB_SalP_TR2_Salmonella_Bact_36.csv,"Time, min",PFU/ml,15,Salmonella eneterica,serovar albany ,vB\_SalP\_TR2,2B
+https://doi.org/10.1007/s00284-013-0308-7,Huang,2013,Huang_CurrMicrobiol_2013_Abp1_Abaumannii_Bact_37.csv,"Time, min",PFU/ml,15,Acinetobacter baumannii,strain AB1,Abp1,3
+https://www.tandfonline.com/doi/pdf/10.1080/09064710.2018.1526965?needAccess=true,Yin,2019,Yin_AAS1_2018_phiXWY0013_Psyringae_Bact_22.csv,"Time, min",PFU/ infected cell,20,Pseudomonas syringae,pv. actinidiae strain XWY0007,$\phi$XWY0013,2 (squares)
+https://bmcmicrobiol.biomedcentral.com/track/pdf/10.1186/s12866-019-1484-9.pdf,Dakheel,2019,Dakheel_BMCMicro_2019_UPMK-1-MRSA-t127-4_Saureus_Bact_31.csv,"Time, min",PFU/ml,20,Staphylococcus aureus,MRSA t127/4,UPMK\_1,5A
+https://aem.asm.org/content/69/12/7499,Abedon,2003,Abedon_AEM_2003_RB69WT_Ecoli_Bact_1.csv,"Time, min",PFU/ infected cell,21,Escherichia coli,strain CR63,RB69\_WT,2B (solid squares)
+https://link.springer.com/content/pdf/10.1007/s00284-020-02279-7.pdf,Cheng,2021,Cheng_CurrMicro_2020_AhyVDH1_Ahydrophila_Bact_30.csv,"Time, min",PFU/ml,50,Aeromonas hydrophila,strain 4572,AhyVDH1,2B
+https://academic.oup.com/femsle/article/348/2/112/731027?login=true,Yu,2013,Yu_FEMSmicro_2013_P8D_Vibrio_Bact_6_2.csv,"Time, min",PFU/ml,60,Vibrio spp.,strain B8D,P8D,3D
+https://doi.org/10.1128/AEM.71.3.1387-1393.2005,Chang,2005,Chang_AEM_2005_phiSMA5_Smaltophilia_Bact_35.csv,"Time, min",PFU/ infected cell,60,Stenotrophomonas maltophilia,strain T39,$\phi$SMA5,2
+https://doi.org/10.1007/s00705-019-04169-1,Tian,2019,Tian_Springer_2019_vBSmaA2050H1_Smarcescens_Bact_20.csv,"Time, min",PFU/ml,80,Serratia marcescens,strain wk2050 ,vB\_SmaA\_2050H1,3A
+https://doi.org/10.1002/jobm.201300951,Di Lallo,2014,DiLallo_JBM_2014_phiPSA1-Psa_33.csv,"Time, min",PFU/ infected cell,100,Pseudomonas syringae,strain CRA-FRU8.43,$\phi$PSA1,3 (squares)
+https://link.springer.com/content/pdf/10.1007/s00284-016-1071-3.pdf,Li,2016,Li_CurrMicro_2016_DSp06_roseobacter_Bact_27.csv,"Time, hr",PFU/ml,2,Dinoroseobacter shibae,strain DFL12,DS-1410Ws-06,2C (open circles)
+https://doi.org/10.1038/ismej.2015.210,Doron,2015,Doron_ISME_2015_Syn9_Cyano_13.csv,"Time, hr",PFU/ml,4,Synechococcus spp.,strain WH7803,Syn9,1B (blue)
